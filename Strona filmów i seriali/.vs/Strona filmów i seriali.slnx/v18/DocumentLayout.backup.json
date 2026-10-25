@@ -1,7 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\damia\\source\\repos\\Strona film\u00F3w i seriali\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\damia\\Documents\\GitHub\\Projekt-strony-film-i-recenzji\\Strona film\u00F3w i seriali\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80A9F153-9A82-7269-21D2-B8269A0B4B41}|Strona film\u00F3w i seriali\\Strona film\u00F3w i seriali.csproj|c:\\users\\damia\\documents\\github\\projekt-strony-film-i-recenzji\\strona film\u00F3w i seriali\\strona film\u00F3w i seriali\\pages\\account.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80A9F153-9A82-7269-21D2-B8269A0B4B41}|Strona film\u00F3w i seriali\\Strona film\u00F3w i seriali.csproj|solutionrelative:strona film\u00F3w i seriali\\pages\\account.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A9F153-9A82-7269-21D2-B8269A0B4B41}|Strona film\u00F3w i seriali\\Strona film\u00F3w i seriali.csproj|c:\\users\\damia\\documents\\github\\projekt-strony-film-i-recenzji\\strona film\u00F3w i seriali\\strona film\u00F3w i seriali\\pages\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80A9F153-9A82-7269-21D2-B8269A0B4B41}|Strona film\u00F3w i seriali\\Strona film\u00F3w i seriali.csproj|solutionrelative:strona film\u00F3w i seriali\\pages\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A9F153-9A82-7269-21D2-B8269A0B4B41}|Strona film\u00F3w i seriali\\Strona film\u00F3w i seriali.csproj|c:\\users\\damia\\documents\\github\\projekt-strony-film-i-recenzji\\strona film\u00F3w i seriali\\strona film\u00F3w i seriali\\pages\\episode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80A9F153-9A82-7269-21D2-B8269A0B4B41}|Strona film\u00F3w i seriali\\Strona film\u00F3w i seriali.csproj|solutionrelative:strona film\u00F3w i seriali\\pages\\episode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A9F153-9A82-7269-21D2-B8269A0B4B41}|Strona film\u00F3w i seriali\\Strona film\u00F3w i seriali.csproj|c:\\users\\damia\\documents\\github\\projekt-strony-film-i-recenzji\\strona film\u00F3w i seriali\\strona film\u00F3w i seriali\\pages\\series.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80A9F153-9A82-7269-21D2-B8269A0B4B41}|Strona film\u00F3w i seriali\\Strona film\u00F3w i seriali.csproj|solutionrelative:strona film\u00F3w i seriali\\pages\\series.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A9F153-9A82-7269-21D2-B8269A0B4B41}|Strona film\u00F3w i seriali\\Strona film\u00F3w i seriali.csproj|c:\\users\\damia\\documents\\github\\projekt-strony-film-i-recenzji\\strona film\u00F3w i seriali\\strona film\u00F3w i seriali\\pages\\film.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80A9F153-9A82-7269-21D2-B8269A0B4B41}|Strona film\u00F3w i seriali\\Strona film\u00F3w i seriali.csproj|solutionrelative:strona film\u00F3w i seriali\\pages\\film.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A9F153-9A82-7269-21D2-B8269A0B4B41}|Strona film\u00F3w i seriali\\Strona film\u00F3w i seriali.csproj|c:\\users\\damia\\documents\\github\\projekt-strony-film-i-recenzji\\strona film\u00F3w i seriali\\strona film\u00F3w i seriali\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80A9F153-9A82-7269-21D2-B8269A0B4B41}|Strona film\u00F3w i seriali\\Strona film\u00F3w i seriali.csproj|solutionrelative:strona film\u00F3w i seriali\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A9F153-9A82-7269-21D2-B8269A0B4B41}|Strona film\u00F3w i seriali\\Strona film\u00F3w i seriali.csproj|c:\\users\\damia\\documents\\github\\projekt-strony-film-i-recenzji\\strona film\u00F3w i seriali\\strona film\u00F3w i seriali\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80A9F153-9A82-7269-21D2-B8269A0B4B41}|Strona film\u00F3w i seriali\\Strona film\u00F3w i seriali.csproj|solutionrelative:strona film\u00F3w i seriali\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A9F153-9A82-7269-21D2-B8269A0B4B41}|Strona film\u00F3w i seriali\\Strona film\u00F3w i seriali.csproj|c:\\users\\damia\\documents\\github\\projekt-strony-film-i-recenzji\\strona film\u00F3w i seriali\\strona film\u00F3w i seriali\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{80A9F153-9A82-7269-21D2-B8269A0B4B41}|Strona film\u00F3w i seriali\\Strona film\u00F3w i seriali.csproj|solutionrelative:strona film\u00F3w i seriali\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +42,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Account.cshtml",
+              "DocumentMoniker": "C:\\Users\\damia\\Documents\\GitHub\\Projekt-strony-film-i-recenzji\\Strona film\u00F3w i seriali\\Strona film\u00F3w i seriali\\Pages\\Account.cshtml",
+              "RelativeDocumentMoniker": "Strona film\u00F3w i seriali\\Pages\\Account.cshtml",
+              "ToolTip": "C:\\Users\\damia\\Documents\\GitHub\\Projekt-strony-film-i-recenzji\\Strona film\u00F3w i seriali\\Strona film\u00F3w i seriali\\Pages\\Account.cshtml",
+              "RelativeToolTip": "Strona film\u00F3w i seriali\\Pages\\Account.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-25T18:50:02.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\damia\\Documents\\GitHub\\Projekt-strony-film-i-recenzji\\Strona film\u00F3w i seriali\\Strona film\u00F3w i seriali\\Pages\\Search.cshtml",
+              "RelativeDocumentMoniker": "Strona film\u00F3w i seriali\\Pages\\Search.cshtml",
+              "ToolTip": "C:\\Users\\damia\\Documents\\GitHub\\Projekt-strony-film-i-recenzji\\Strona film\u00F3w i seriali\\Strona film\u00F3w i seriali\\Pages\\Search.cshtml",
+              "RelativeToolTip": "Strona film\u00F3w i seriali\\Pages\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-25T18:49:48.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Episode.cshtml",
+              "DocumentMoniker": "C:\\Users\\damia\\Documents\\GitHub\\Projekt-strony-film-i-recenzji\\Strona film\u00F3w i seriali\\Strona film\u00F3w i seriali\\Pages\\Episode.cshtml",
+              "RelativeDocumentMoniker": "Strona film\u00F3w i seriali\\Pages\\Episode.cshtml",
+              "ToolTip": "C:\\Users\\damia\\Documents\\GitHub\\Projekt-strony-film-i-recenzji\\Strona film\u00F3w i seriali\\Strona film\u00F3w i seriali\\Pages\\Episode.cshtml",
+              "RelativeToolTip": "Strona film\u00F3w i seriali\\Pages\\Episode.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-25T18:49:38.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Series.cshtml",
+              "DocumentMoniker": "C:\\Users\\damia\\Documents\\GitHub\\Projekt-strony-film-i-recenzji\\Strona film\u00F3w i seriali\\Strona film\u00F3w i seriali\\Pages\\Series.cshtml",
+              "RelativeDocumentMoniker": "Strona film\u00F3w i seriali\\Pages\\Series.cshtml",
+              "ToolTip": "C:\\Users\\damia\\Documents\\GitHub\\Projekt-strony-film-i-recenzji\\Strona film\u00F3w i seriali\\Strona film\u00F3w i seriali\\Pages\\Series.cshtml",
+              "RelativeToolTip": "Strona film\u00F3w i seriali\\Pages\\Series.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-25T18:49:20.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Film.cshtml",
+              "DocumentMoniker": "C:\\Users\\damia\\Documents\\GitHub\\Projekt-strony-film-i-recenzji\\Strona film\u00F3w i seriali\\Strona film\u00F3w i seriali\\Pages\\Film.cshtml",
+              "RelativeDocumentMoniker": "Strona film\u00F3w i seriali\\Pages\\Film.cshtml",
+              "ToolTip": "C:\\Users\\damia\\Documents\\GitHub\\Projekt-strony-film-i-recenzji\\Strona film\u00F3w i seriali\\Strona film\u00F3w i seriali\\Pages\\Film.cshtml",
+              "RelativeToolTip": "Strona film\u00F3w i seriali\\Pages\\Film.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-25T18:49:03.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\damia\\Documents\\GitHub\\Projekt-strony-film-i-recenzji\\Strona film\u00F3w i seriali\\Strona film\u00F3w i seriali\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "Strona film\u00F3w i seriali\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\damia\\Documents\\GitHub\\Projekt-strony-film-i-recenzji\\Strona film\u00F3w i seriali\\Strona film\u00F3w i seriali\\Pages\\Login.cshtml",
+              "RelativeToolTip": "Strona film\u00F3w i seriali\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-25T18:46:58.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\damia\\Documents\\GitHub\\Projekt-strony-film-i-recenzji\\Strona film\u00F3w i seriali\\Strona film\u00F3w i seriali\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Strona film\u00F3w i seriali\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\damia\\Documents\\GitHub\\Projekt-strony-film-i-recenzji\\Strona film\u00F3w i seriali\\Strona film\u00F3w i seriali\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Strona film\u00F3w i seriali\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-25T18:38:45.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\damia\\Documents\\GitHub\\Projekt-strony-film-i-recenzji\\Strona film\u00F3w i seriali\\Strona film\u00F3w i seriali\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Strona film\u00F3w i seriali\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\damia\\Documents\\GitHub\\Projekt-strony-film-i-recenzji\\Strona film\u00F3w i seriali\\Strona film\u00F3w i seriali\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Strona film\u00F3w i seriali\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-25T18:37:01.181Z",
+              "EditorCaption": ""
             }
           ]
         },
