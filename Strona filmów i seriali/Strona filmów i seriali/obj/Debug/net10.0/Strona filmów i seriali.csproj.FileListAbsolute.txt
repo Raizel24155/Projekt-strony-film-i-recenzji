@@ -197,3 +197,104 @@ C:\Users\damia\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i 
 C:\Users\damia\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\Strona filmów i seriali.genruntimeconfig.cache
 C:\Users\damia\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\ref\Strona filmów i seriali.dll
 C:\Users\damia\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\Strona f.735AA5B0.Up2Date
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\bin\Debug\net10.0\appsettings.json
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\bin\Debug\net10.0\Strona filmów i seriali.staticwebassets.runtime.json
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\bin\Debug\net10.0\Strona filmów i seriali.staticwebassets.endpoints.json
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\bin\Debug\net10.0\Strona filmów i seriali.exe
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\bin\Debug\net10.0\Strona filmów i seriali.deps.json
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\bin\Debug\net10.0\Strona filmów i seriali.runtimeconfig.json
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\bin\Debug\net10.0\Strona filmów i seriali.dll
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\bin\Debug\net10.0\Strona filmów i seriali.pdb
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\Strona filmów i seriali.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\Strona filmów i seriali.AssemblyInfoInputs.cache
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\Strona filmów i seriali.AssemblyInfo.cs
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\Strona filmów i seriali.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\Strona filmów i seriali.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\Strona filmów i seriali.RazorAssemblyInfo.cache
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\Strona filmów i seriali.RazorAssemblyInfo.cs
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\Strona filmów i seriali.sourcelink.json
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\scopedcss\bundle\Strona filmów i seriali.styles.css
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\scopedcss\projectbundle\Strona filmów i seriali.bundle.scp.css
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\p4fzc052ap-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\0gi9ws4sal-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\xtjf3knymy-{0}-t1cqhe9u97-t1cqhe9u97.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\yodrwpzz9b-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\qh8h9w8nkj-{0}-sejl45xvog-sejl45xvog.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\qr6d9elrht-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\ps9zg3hvie-{0}-xvp3kq03qx-xvp3kq03qx.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\jz2yqr6f41-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\pajym5zyjc-{0}-22vffe00uq-22vffe00uq.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\xppp6n69l0-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\i70vns00v6-{0}-qesaa3a1fm-qesaa3a1fm.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\ghzl31pnkf-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\bn8hl0mpnj-{0}-tmc1g35s3z-tmc1g35s3z.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\h3j59jqrym-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\i7mku1f695-{0}-rxsg74s51o-rxsg74s51o.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\eej1loc7s3-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\tn5i2obr5k-{0}-q9ht133ko3-q9ht133ko3.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\rr2yj87o1t-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\7xb6s0vdkz-{0}-gye83jo8yx-gye83jo8yx.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\prjykebw3k-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\uktwecuz2d-{0}-wl58j5mj3v-wl58j5mj3v.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\f7kzn7f5dr-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\wabtuh1okp-{0}-d4r6k3f320-d4r6k3f320.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\orbrtb3ppd-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\ql0dubq1q7-{0}-keugtjm085-keugtjm085.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\c7p4qesrey-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\47sq7bpvjj-{0}-zub09dkrxp-zub09dkrxp.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\fnz4nseeb2-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\2v509gxcme-{0}-43atpzeawx-43atpzeawx.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\1qfek5wvvq-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\3bh8rbmkpq-{0}-ynyaa8k90p-ynyaa8k90p.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\6i1e2kyvfi-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\ws8x153r7a-{0}-c63t5i9ira-c63t5i9ira.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\w3sm098r1l-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\byz05611cl-{0}-4094rpi4f9-4094rpi4f9.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\dgglahp3k6-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\2lf18q7mnl-{0}-hd3gran6i8-hd3gran6i8.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\fbpdm9mqlw-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\y9sz3wmpd5-{0}-ltid2c489k-ltid2c489k.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\okzr7sr5fl-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\wgnav4b0ph-{0}-8vyfqsqgz1-8vyfqsqgz1.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\tpq8m9u4ty-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\vwii2egogw-{0}-u9q1upor1n-u9q1upor1n.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\2buksjwonk-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\0pkcspgsvm-{0}-4d85u1mtcx-4d85u1mtcx.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\m0gtzmok4z-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\0hup0vh5zz-{0}-03hjc8e09r-03hjc8e09r.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\os5ic7p2e2-{0}-48y08845bh-48y08845bh.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\n3729af621-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\pp2bnnvoj4-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\c73syh38rc-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\0jr92bft9u-{0}-worgj0nhwm-worgj0nhwm.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\rfxkztekm1-{0}-gk0pw8i4co-gk0pw8i4co.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\kpf4giyvc7-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\v34zgn7x54-{0}-d6nrnj6jjx-d6nrnj6jjx.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\4llr50s88o-{0}-m9qm4tazc0-m9qm4tazc0.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\b34ljel21h-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\9cloi6yuut-{0}-jjsuc0puko-jjsuc0puko.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\ogbzmru4l0-{0}-9vr69e8ynj-9vr69e8ynj.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\uhvxw9pptx-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\ieno1tvffs-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\e59shdrbul-{0}-lplchlffad-lplchlffad.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\s4mzrki9sn-{0}-lplchlffad-lplchlffad.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\Strona filmów i seriali.dll
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\refint\Strona filmów i seriali.dll
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\Strona filmów i seriali.pdb
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\Strona filmów i seriali.genruntimeconfig.cache
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\ref\Strona filmów i seriali.dll
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\Strona f.735AA5B0.Up2Date
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\3qixlupxht-{0}-vu8s71yd3c-vu8s71yd3c.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\2k5pt3xerj-{0}-8347q3gszj-8347q3gszj.gz

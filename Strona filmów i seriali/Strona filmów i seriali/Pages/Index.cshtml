@@ -1,10 +1,238 @@
 ﻿@page
 @model IndexModel
+
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "CineVerse";
+
+    // Przykładowe dane – później pobierzemy je z bazy danych.
+    var topMovies = new[]
+    {
+        new { Title = "Skazani na Shawshank", Year = "1994", Rating = "9.3", Genre = "Dramat", Number = "01" },
+        new { Title = "Ojciec chrzestny", Year = "1972", Rating = "9.2", Genre = "Kryminał", Number = "02" },
+        new { Title = "Mroczny Rycerz", Year = "2008", Rating = "9.0", Genre = "Akcja", Number = "03" },
+        new { Title = "Dwunastu gniewnych ludzi", Year = "1957", Rating = "9.0", Genre = "Dramat", Number = "04" },
+        new { Title = "Lista Schindlera", Year = "1993", Rating = "8.9", Genre = "Historyczny", Number = "05" }
+    };
+
+    var topSeries = new[]
+    {
+        new { Title = "Breaking Bad", Year = "2008", Rating = "9.5", Genre = "Dramat", Number = "01" },
+        new { Title = "Planet Earth II", Year = "2016", Rating = "9.4", Genre = "Dokumentalny", Number = "02" },
+        new { Title = "The Wire", Year = "2002", Rating = "9.3", Genre = "Kryminał", Number = "03" },
+        new { Title = "Gra o tron", Year = "2011", Rating = "9.2", Genre = "Fantasy", Number = "04" },
+        new { Title = "Sherlock", Year = "2010", Rating = "9.1", Genre = "Kryminał", Number = "05" }
+    };
+
+    var genres = new[]
+    {
+        "Akcja", "Dramat", "Komedia", "Horror",
+        "Thriller", "Science Fiction", "Fantasy", "Animacja"
+    };
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="page-wrapper">
+
+    <!-- NAVBAR -->
+    <header class="navbar">
+        <a href="/" class="logo">Cine<span>Verse</span></a>
+
+        <nav class="nav-links">
+            <a href="#home">Główna</a>
+            <a href="#movies">Filmy</a>
+            <a href="#series">Seriale</a>
+            <a href="#rankings">Rankingi</a>
+        </nav>
+
+        <div class="nav-actions">
+            <a href="/Login" class="nav-login">Zaloguj się</a>
+            <a href="/Login" class="nav-register">Dołącz do nas</a>
+        </div>
+    </header>
+
+    <main>
+
+        <!-- HERO -->
+        <section class="hero" id="home">
+            <div class="hero-content">
+                <span class="hero-label">POZNAJ ŚWIAT KINA</span>
+
+                <h1>
+                    Odkrywaj historie.<br />
+                    <span>Oceniaj. Oglądaj.</span>
+                </h1>
+
+                <p>
+                    Wszystko o filmach i serialach w jednym miejscu.
+                    Sprawdzaj rankingi, odkrywaj nowe produkcje
+                    i twórz własną kolekcję ulubionych tytułów.
+                </p>
+
+                <div class="hero-buttons">
+                    <a href="#rankings" class="hero-button">
+                        Zobacz rankingi →
+                    </a>
+
+                    <a href="#genres" class="hero-secondary">
+                        Odkrywaj gatunki
+                    </a>
+                </div>
+            </div>
+
+            <div class="hero-decoration">
+                <div class="hero-decoration-inner">
+                    <span>YOUR WORLD</span>
+                    <strong>CINEMA</strong>
+                    <span>STARTS HERE</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- SEARCH -->
+        <section class="search-section">
+            <div>
+                <span class="section-label">WYSZUKIWARKA</span>
+                <h2>Znajdź coś dla siebie</h2>
+            </div>
+
+            <form class="search-box" method="get" action="/Movies">
+                <input type="search" name="search"
+                       placeholder="Wpisz tytuł filmu lub serialu..." />
+
+                <button type="submit">Szukaj</button>
+            </form>
+        </section>
+
+        <!-- RANKINGS -->
+        <section class="content-section" id="rankings">
+
+            <div class="section-heading">
+                <div>
+                    <span class="section-label">NAJLEPSZE PRODUKCJE</span>
+                    <h2>Rankingi TOP 5</h2>
+                </div>
+
+                <span class="section-description">
+                    Odkrywaj najwyżej oceniane produkcje.
+                </span>
+            </div>
+
+            <!-- TOP MOVIES -->
+            <div class="ranking-block" id="movies">
+                <div class="ranking-title">
+                    <h3> <span>01.</span> Najlepsze filmy</h3>
+                    <a href="/Movies">Zobacz wszystkie →</a>
+                </div>
+
+                <div class="ranking-list">
+
+                    @foreach (var movie in topMovies)
+                    {
+                        <div class="ranking-item">
+                            <span class="ranking-number">@movie.Number</span>
+
+                            <div class="ranking-poster">
+                                <span>FILM</span>
+                            </div>
+
+                            <div class="ranking-info">
+                                <h4>@movie.Title</h4>
+                                <p>@movie.Year · @movie.Genre</p>
+                            </div>
+
+                            <div class="rating">
+                                <span>★</span>
+                                @movie.Rating
+                            </div>
+                        </div>
+                    }
+
+                </div>
+            </div>
+
+            <!-- TOP SERIES -->
+            <div class="ranking-block" id="series">
+                <div class="ranking-title">
+                    <h3><span>02.</span> Najlepsze seriale</h3>
+                    <a href="/Series">Zobacz wszystkie →</a>
+                </div>
+
+                <div class="ranking-list">
+
+                    @foreach (var series in topSeries)
+                    {
+                        <div class="ranking-item">
+                            <span class="ranking-number">@series.Number</span>
+
+                            <div class="ranking-poster series-poster">
+                                <span>SERIAL</span>
+                            </div>
+
+                            <div class="ranking-info">
+                                <h4>@series.Title</h4>
+                                <p>@series.Year · @series.Genre</p>
+                            </div>
+
+                            <div class="rating">
+                                <span>★</span>
+                                @series.Rating
+                            </div>
+                        </div>
+                    }
+
+                </div>
+            </div>
+
+        </section>
+
+        <!-- GENRES -->
+        <section class="content-section genres-section" id="genres">
+
+            <div class="section-heading">
+                <div>
+                    <span class="section-label">ODKRYWAJ</span>
+                    <h2>Przeglądaj według gatunku</h2>
+                </div>
+
+                <span class="section-description">
+                    Wybierz klimat, na jaki masz ochotę.
+                </span>
+            </div>
+
+            <div class="genre-grid">
+                @foreach (var genre in genres)
+                {
+                    <a href="/Movies?genre=@genre" class="genre-card">
+                        <span>@genre</span>
+                        <span class="genre-arrow">↗</span>
+                    </a>
+                }
+            </div>
+
+        </section>
+
+        <!-- DISCOVER -->
+        <section class="discover-section">
+            <div class="discover-content">
+                <span class="section-label">TWOJA KOLEKCJA</span>
+                <h2>Znajdź swoją kolejną ulubioną produkcję.</h2>
+                <p>
+                    Stwórz konto, oceniaj filmy i seriale
+                    oraz zapisuj produkcje, które chcesz obejrzeć.
+                </p>
+
+                <a href="/Login" class="hero-button">
+                    Utwórz konto →
+                </a>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- FOOTER -->
+    <footer class="footer">
+        <a href="/" class="logo">Cine<span>Verse</span></a>
+        <p>© 2026 CineVerse. Wszystkie prawa zastrzeżone.</p>
+    </footer>
+
 </div>
+

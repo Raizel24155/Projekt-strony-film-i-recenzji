@@ -8,5 +8,15 @@ namespace Strona_filmów_i_seriali.Pages
         public void OnGet()
         {
         }
+
+        public IActionResult OnPostLogin()
+        {
+            return Page();
+        }
+
+        public IActionResult OnPostRegister()
+        {
+            return Page();
+        }
     }
 }

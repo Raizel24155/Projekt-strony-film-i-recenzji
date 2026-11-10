@@ -8,23 +8,23 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\damia\\.nuget\\packages\\": {},
+    "C:\\Users\\Komputer\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\damia\\Documents\\GitHub\\Projekt-strony-film-i-recenzji\\Strona filmów i seriali\\Strona filmów i seriali\\Strona filmów i seriali.csproj",
+      "projectUniqueName": "C:\\Users\\Komputer\\Documents\\GitHub\\Projekt-strony-film-i-recenzji\\Strona filmów i seriali\\Strona filmów i seriali\\Strona filmów i seriali.csproj",
       "projectName": "Strona filmów i seriali",
-      "projectPath": "C:\\Users\\damia\\Documents\\GitHub\\Projekt-strony-film-i-recenzji\\Strona filmów i seriali\\Strona filmów i seriali\\Strona filmów i seriali.csproj",
-      "packagesPath": "C:\\Users\\damia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\damia\\Documents\\GitHub\\Projekt-strony-film-i-recenzji\\Strona filmów i seriali\\Strona filmów i seriali\\obj\\",
+      "projectPath": "C:\\Users\\Komputer\\Documents\\GitHub\\Projekt-strony-film-i-recenzji\\Strona filmów i seriali\\Strona filmów i seriali\\Strona filmów i seriali.csproj",
+      "packagesPath": "C:\\Users\\Komputer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Komputer\\Documents\\GitHub\\Projekt-strony-film-i-recenzji\\Strona filmów i seriali\\Strona filmów i seriali\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\damia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Komputer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -77,7 +77,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
