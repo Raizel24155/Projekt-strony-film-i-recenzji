@@ -296,5 +296,6 @@ C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów
 C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\Strona filmów i seriali.genruntimeconfig.cache
 C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\ref\Strona filmów i seriali.dll
 C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\Strona f.735AA5B0.Up2Date
-C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\3qixlupxht-{0}-vu8s71yd3c-vu8s71yd3c.gz
 C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\2k5pt3xerj-{0}-8347q3gszj-8347q3gszj.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\3qixlupxht-{0}-75gw41d9xi-75gw41d9xi.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\esjex4j5yw-{0}-remb8u18iu-remb8u18iu.gz

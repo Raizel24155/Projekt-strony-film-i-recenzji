@@ -33,20 +33,24 @@
 <div class="page-wrapper">
 
     <!-- NAVBAR -->
-    <header class="navbar">
-        <a href="/" class="logo">Cine<span>Verse</span></a>
+    <header class="main-header">
+        <a asp-page="/Index" class="logo">CINEVERSE</a>
 
-        <nav class="nav-links">
-            <a href="#home">Główna</a>
-            <a href="#movies">Filmy</a>
-            <a href="#series">Seriale</a>
-            <a href="#rankings">Rankingi</a>
-        </nav>
+        @* <nav class="main-nav">
+            <a asp-page="/Index">Strona główna</a>
+            <a asp-page="/Catalog" asp-route-type="Film">Filmy</a>
+            <a asp-page="/Catalog" asp-route-type="Serial">Seriale</a>
+        </nav> *@
 
-        <div class="nav-actions">
-            <a href="/Login" class="nav-login">Zaloguj się</a>
-            <a href="/Login" class="nav-register">Dołącz do nas</a>
-        </div>
+        <form method="get" asp-page="/Search" class="header-search">
+            <input type="text"
+                   name="query"
+                   placeholder="Szukaj filmów i seriali..." />
+
+            <button type="submit">Szukaj</button>
+        </form>
+
+        <a asp-page="/Login" class="login-button">Zaloguj się</a>
     </header>
 
     <main>
@@ -87,7 +91,7 @@
             </div>
         </section>
 
-        <!-- SEARCH -->
+        @* <!-- SEARCH -->
         <section class="search-section">
             <div>
                 <span class="section-label">WYSZUKIWARKA</span>
@@ -100,7 +104,7 @@
 
                 <button type="submit">Szukaj</button>
             </form>
-        </section>
+        </section> *@
 
         <!-- RANKINGS -->
         <section class="content-section" id="rankings">

@@ -1,3 +1,4 @@
+wwwroot\css\catalog.css
 wwwroot\css\login.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
@@ -62,6 +63,7 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\wwwroot\css\login.css
 C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\wwwroot\css\site.css
 C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\wwwroot\favicon.ico
 C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\wwwroot\js\site.js
@@ -124,4 +126,4 @@ C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów
 C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\wwwroot\lib\jquery\dist\jquery.slim.min.js
 C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\wwwroot\lib\jquery\LICENSE.txt
-C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\wwwroot\css\login.css
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\wwwroot\css\catalog.css

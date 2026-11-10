@@ -1,4 +1,117 @@
 ﻿@page
 @model Strona_filmów_i_seriali.Pages.SearchModel
+
 @{
+    Layout = null;
+    ViewData["Title"] = "Katalog";
 }
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CineVerse - Katalog</title>
+
+    <link rel="stylesheet" href="~/css/catalog.css" asp-append-version="true" />
+</head>
+
+<body>
+
+    <header class="main-header">
+        <a asp-page="/Index" class="logo">CINEVERSE</a>
+
+        @* <nav class="main-nav">
+        <a asp-page="/Index">Strona główna</a>
+        <a asp-page="/Catalog" asp-route-type="Film">Filmy</a>
+        <a asp-page="/Catalog" asp-route-type="Serial">Seriale</a>
+    </nav> *@
+
+        <form method="get" asp-page="/Catalog" class="header-search">
+            <input type="text"
+                   name="query"
+                   value="@Model.Query"
+                   placeholder="Szukaj..." />
+
+            <button type="submit">Szukaj</button>
+        </form>
+
+        <a asp-page="/Account" class="login-button">Zaloguj się</a>
+    </header>
+
+    <main class="catalog-container">
+
+        <section class="catalog-heading">
+            <h1>Katalog</h1>
+            <p>Odkrywaj filmy i seriale ze świata kina.</p>
+        </section>
+
+        <section class="catalog-filters">
+            <a asp-page="/Catalog">Wszystko</a>
+            <a asp-page="/Catalog" asp-route-type="Film">Filmy</a>
+            <a asp-page="/Catalog" asp-route-type="Serial">Seriale</a>
+        </section>
+
+        <h2>
+            @if (Model.Type == "Film")
+            {
+                <span>Filmy</span>
+            }
+            else if (Model.Type == "Serial")
+            {
+                <span>Seriale</span>
+            }
+            else
+            {
+                <span>Wszystkie pozycje</span>
+            }
+        </h2>
+
+        @if (!string.IsNullOrWhiteSpace(Model.Query))
+        {
+            <p>Wyniki wyszukiwania dla: <strong>@Model.Query</strong></p>
+        }
+
+        <div class="catalog-grid">
+
+            @foreach (var item in Model.Items)
+            {
+                <a asp-page="/Details"
+                   asp-route-id="@item.Id"
+                   class="catalog-card-link">
+
+                    <article class="catalog-card">
+
+                        <div class="poster">
+                            <span>@item.Title</span>
+                        </div>
+
+                        <div class="catalog-card-info">
+                            <h3>@item.Title</h3>
+
+                            <p>@item.Year · @item.Genre</p>
+
+                            <div class="catalog-card-bottom">
+                                <span>@item.Type</span>
+                                <strong>★ @item.Rating.ToString("0.0")</strong>
+                            </div>
+                        </div>
+
+                    </article>
+
+                </a>
+            }
+
+        </div>
+
+        @if (!Model.Items.Any())
+        {
+            <p class="no-results">
+                Nie znaleziono żadnych filmów ani seriali.
+            </p>
+        }
+
+    </main>
+
+</body>
+</html>

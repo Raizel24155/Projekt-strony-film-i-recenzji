@@ -5,8 +5,6 @@ namespace Strona_filmów_i_seriali.Pages
 {
     public class FilmModel : PageModel
     {
-        public void OnGet()
-        {
-        }
+
     }
 }
