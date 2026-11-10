@@ -1,0 +1,121 @@
+﻿@page
+@model Strona_filmów_i_seriali.Pages.DetailsModel
+
+@{
+    Layout = null;
+    ViewData["Title"] = Model.Item!.Title;
+}
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>CineVerse - @Model.Item.Title</title>
+
+    <link rel="stylesheet"
+          href="~/css/details.css"
+          asp-append-version="true" />
+</head>
+
+<body>
+
+<header class="main-header">
+    <a asp-page="/Index" class="logo">CINEVERSE</a>
+
+    @* <nav class="main-nav">
+        <a asp-page="/Index">Strona główna</a>
+        <a asp-page="/Catalog" asp-route-type="Film">Filmy</a>
+        <a asp-page="/Catalog" asp-route-type="Serial">Seriale</a>
+    </nav> *@
+
+    <form method="get" asp-page="/Search" class="header-search">
+        <input type="text" name="query" placeholder="Szukaj..." />
+        <button type="submit">Szukaj</button>
+    </form>
+
+    <a asp-page="/Login" class="login-button">Zaloguj się</a>
+</header>
+
+<main class="details-container">
+
+    <a asp-page="/Catalog" class="back-link">
+        ← Powrót do katalogu
+    </a>
+
+    <section class="details-hero">
+
+        <div class="details-poster">
+            <span>@Model.Item.Title</span>
+        </div>
+
+        <div class="details-information">
+
+            <span class="content-type">@Model.Item.Type</span>
+
+            <h1>@Model.Item.Title</h1>
+
+            <div class="details-meta">
+                <span>@Model.Item.Year</span>
+                <span>@Model.Item.Genre</span>
+                <span>@Model.Item.Duration</span>
+            </div>
+
+            <div class="details-rating">
+                <span class="star">★</span>
+                <strong>@Model.Item.Rating.ToString("0.0")</strong>
+                <span>/ 10</span>
+            </div>
+
+            <h2>Opis</h2>
+
+            <p class="description">
+                @Model.Item.Description
+            </p>
+
+            @if (Model.Item.Type == "Serial")
+            {
+                <div class="series-information">
+                    <div>
+                        <strong>@Model.Item.Seasons</strong>
+                        <span>Sezony</span>
+                    </div>
+
+                    <div>
+                        <strong>@Model.Item.Episodes</strong>
+                        <span>Odcinki</span>
+                    </div>
+                </div>
+            }
+
+        </div>
+
+    </section>
+
+    <section class="cast-section">
+
+        <h2>Obsada</h2>
+
+        <div class="cast-list">
+
+            @foreach (var actor in Model.Item.Cast)
+            {
+                <div class="cast-card">
+                    <div class="cast-avatar">
+                        @actor.Substring(0, 1)
+                    </div>
+
+                    <span>@actor</span>
+                </div>
+            }
+
+        </div>
+
+    </section>
+
+</main>
+
+</body>
+</html>
+
