@@ -1,3 +1,4 @@
+wwwroot\css\account.css
 wwwroot\css\catalog.css
 wwwroot\css\details.css
 wwwroot\css\login.css
@@ -128,4 +129,5 @@ C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów
 C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\wwwroot\lib\jquery\LICENSE.txt
 C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\wwwroot\css\login.css
 C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\wwwroot\css\catalog.css
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\wwwroot\css\account.css
 C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\wwwroot\css\details.css

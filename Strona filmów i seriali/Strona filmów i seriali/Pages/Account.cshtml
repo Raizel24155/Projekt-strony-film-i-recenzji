@@ -1,4 +1,173 @@
 ﻿@page
 @model Strona_filmów_i_seriali.Pages.AccountModel
 @{
+    Layout = null;
+    ViewData["Title"] = "Profil użytkownika";
 }
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>CineVerse - @Model.Username</title>
+
+    <link rel="stylesheet"
+          href="~/css/account.css"
+          asp-append-version="true" />
+</head>
+
+<body>
+
+<header class="main-header">
+
+    <a asp-page="/Index" class="logo">CINEVERSE</a>
+
+    <nav class="main-nav">
+        <a asp-page="/Index">Strona główna</a>
+        <a asp-page="/Catalog" asp-route-type="Film">Filmy</a>
+        <a asp-page="/Catalog" asp-route-type="Serial">Seriale</a>
+    </nav>
+
+    <form method="get" asp-page="/Catalog" class="header-search">
+        <input type="text" name="query" placeholder="Szukaj..." />
+        <button type="submit">Szukaj</button>
+    </form>
+
+    <a asp-page="/Account" class="login-button">Zaloguj się</a>
+
+</header>
+
+<main class="user-container">
+
+    <a asp-page="/Catalog" class="back-link">
+        ← Powrót do katalogu
+    </a>
+
+    <section class="user-profile">
+
+        <div class="user-avatar">
+            @Model.Username.Substring(0, 1).ToUpper()
+        </div>
+
+        <div class="user-information">
+
+            <span class="profile-label">PROFIL UŻYTKOWNIKA</span>
+
+            <h1>@Model.Username</h1>
+
+            <div class="user-statistics">
+
+                <div class="stat">
+                    <strong>@Model.Reviews.Count</strong>
+                    <span>Recenzje</span>
+                </div>
+
+                <div class="stat">
+                    <strong>
+                        @(Model.Reviews.Count > 0
+                            ? Model.AverageRating.ToString("0.0")
+                            : "—")
+                    </strong>
+                    <span>Średnia ocen</span>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <section class="user-reviews">
+
+        <div class="section-heading">
+            <h2>Recenzje użytkownika</h2>
+            <span>@Model.Reviews.Count opinii</span>
+        </div>
+
+        @if (Model.Reviews.Any())
+        {
+            <div class="reviews-list">
+
+                @foreach (var entry in Model.Reviews)
+                {
+                    <article class="user-review-card">
+
+                        <div class="review-poster">
+                            @if (entry.Item != null)
+                            {
+                                <span>@entry.Item.Title</span>
+                            }
+                            else
+                            {
+                                <span>Brak danych</span>
+                            }
+                        </div>
+
+                        <div class="user-review-content">
+
+                            <div class="review-header">
+
+                                <div>
+                                    @if (entry.Item != null)
+                                    {
+                                        <a asp-page="/Details"
+                                           asp-route-id="@entry.Item.Id"
+                                           class="review-title">
+
+                                            @entry.Item.Title
+
+                                        </a>
+
+                                        <span class="review-meta">
+                                            @entry.Item.Year · @entry.Item.Type
+                                        </span>
+                                    }
+                                    else
+                                    {
+                                        <span>Nieznana produkcja</span>
+                                    }
+                                </div>
+
+                                <div class="review-rating">
+                                    ★ @entry.Review.Rating/10
+                                </div>
+
+                            </div>
+
+                            <p class="review-text">
+                                @entry.Review.Content
+                            </p>
+
+                            <span class="review-date">
+                                Dodano:
+                                @entry.Review.CreatedAt.ToString("dd.MM.yyyy")
+                            </span>
+
+                        </div>
+
+                    </article>
+                }
+
+            </div>
+        }
+        else
+        {
+            <div class="empty-reviews">
+
+                <h3>Brak recenzji</h3>
+
+                <p>
+                    Ten użytkownik nie napisał jeszcze żadnej recenzji.
+                </p>
+
+            </div>
+        }
+
+    </section>
+
+</main>
+
+</body>
+</html>

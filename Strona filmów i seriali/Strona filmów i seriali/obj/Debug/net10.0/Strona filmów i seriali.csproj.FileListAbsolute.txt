@@ -299,4 +299,5 @@ C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów
 C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\2k5pt3xerj-{0}-8347q3gszj-8347q3gszj.gz
 C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\3qixlupxht-{0}-75gw41d9xi-75gw41d9xi.gz
 C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\esjex4j5yw-{0}-remb8u18iu-remb8u18iu.gz
-C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\zfjgp1k8w6-{0}-g33nxsm0jl-g33nxsm0jl.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\wh5wlz5cfn-{0}-5agtmohdbu-5agtmohdbu.gz
+C:\Users\Komputer\Documents\GitHub\Projekt-strony-film-i-recenzji\Strona filmów i seriali\Strona filmów i seriali\obj\Debug\net10.0\compressed\zfjgp1k8w6-{0}-utuhpxcaxg-utuhpxcaxg.gz

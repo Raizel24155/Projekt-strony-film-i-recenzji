@@ -114,6 +114,115 @@
 
     </section>
 
+        <section class="reviews-section">
+
+            <div class="reviews-heading">
+                <h2>Recenzje użytkowników</h2>
+                <span>@Model.Reviews.Count recenzji</span>
+            </div>
+
+            <div class="add-review">
+
+                <h3>Podziel się swoją opinią</h3>
+
+                <form method="post"
+                      asp-page-handler="AddReview"
+                      asp-route-id="@Model.Item.Id">
+
+                    <div class="review-form-group">
+                        <label for="username">Twój pseudonim</label>
+
+                        <input type="text"
+                               id="username"
+                               name="username"
+                               maxlength="30"
+                               placeholder="Wpisz swój pseudonim"
+                               required />
+                    </div>
+
+                    <div class="review-form-group">
+                        <label for="rating">Twoja ocena</label>
+
+                        <select id="rating" name="rating" required>
+                            <option value="10">10 - Arcydzieło</option>
+                            <option value="9">9 - Świetny</option>
+                            <option value="8">8 - Bardzo dobry</option>
+                            <option value="7">7 - Dobry</option>
+                            <option value="6">6 - Niezły</option>
+                            <option value="5">5 - Przeciętny</option>
+                            <option value="4">4 - Słaby</option>
+                            <option value="3">3 - Bardzo słaby</option>
+                            <option value="2">2 - Zły</option>
+                            <option value="1">1 - Fatalny</option>
+                        </select>
+                    </div>
+
+                    <div class="review-form-group">
+                        <label for="content">Treść recenzji</label>
+
+                        <textarea id="content"
+                                  name="content"
+                                  maxlength="1000"
+                                  rows="5"
+                                  placeholder="Co sądzisz o tej produkcji?"
+                                  required></textarea>
+                    </div>
+
+                    <button type="submit" class="review-submit">
+                        Dodaj recenzję
+                    </button>
+
+                </form>
+
+            </div>
+
+            <div class="reviews-list">
+
+                @if (Model.Reviews.Any())
+                {
+                    @foreach (var review in Model.Reviews)
+                    {
+                        <article class="review-card">
+
+                            <div class="review-top">
+
+                                <div>
+                                    <a asp-page="/Account"
+                                       asp-route-username="@review.Username"
+                                       class="review-username">
+
+                                        @review.Username
+
+                                    </a>
+
+                                    <span class="review-date">
+                                        @review.CreatedAt.ToString("dd.MM.yyyy")
+                                    </span>
+                                </div>
+
+                                <div class="review-rating">
+                                    ★ @review.Rating/10
+                                </div>
+
+                            </div>
+
+                            <p>@review.Content</p>
+
+                        </article>
+                    }
+                }
+                else
+                {
+                    <p class="no-reviews">
+                        Nie ma jeszcze żadnych recenzji.
+                        Bądź pierwszą osobą, która podzieli się swoją opinią!
+                    </p>
+                }
+
+            </div>
+
+        </section>
+
 </main>
 
 </body>

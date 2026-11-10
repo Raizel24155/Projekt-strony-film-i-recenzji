@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Strona filmów i seriali")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca788094b3444688f86ddfc9a2bc8c5882a35070")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ab81f83009cb3f58e905eb7953acf69484d59b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Strona filmów i seriali")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Strona filmów i seriali")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
